@@ -1,0 +1,28 @@
+## Build and Output Folders
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]pp_[Dd]ata/
+
+## Visual Studio Cache and User Settings
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+
+## NuGet Packages
+*.nupkg
+packages/
+!packages/build/
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
